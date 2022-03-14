@@ -1,0 +1,39 @@
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form1.resources
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form1.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form1.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
