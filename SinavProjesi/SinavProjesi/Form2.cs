@@ -16,9 +16,9 @@ using System.Security;
 
 namespace SinavProjesi
 {
-    public partial class Form2 : Form
+    public partial class ForgotForm : Form
     {
-        public Form2()
+        public ForgotForm()
         {
             InitializeComponent();
         }
@@ -43,8 +43,8 @@ namespace SinavProjesi
                     SmtpClient smtpserver = new SmtpClient();
                     MailMessage mail = new MailMessage();
                     String tarih = DateTime.Now.ToLongDateString();
-                    String mailadresin = "burakyazilim44@gmail.com";
-                    String sifre = "burakyazilim4444";
+                    String mailadresin = "altamanager44@gmail.com";
+                    String sifre = "alta12345.";
                     String smptsrvr = "smtp.gmail.com";
                     String kime = (dr["emailAdresi"].ToString());
                     String konu = ("Sifre hatırlatma Maili");

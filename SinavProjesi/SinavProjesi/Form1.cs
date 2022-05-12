@@ -15,6 +15,7 @@ namespace SinavProjesi
 {
     public partial class Form1 : Form
     {
+     
         bool isAnimation = true;
         const int MAX_WIDTH = 585;
         const int MIN_WIDTH = 92;
@@ -111,38 +112,42 @@ namespace SinavProjesi
 
         private void LoginButton_Click(object sender, EventArgs e)
         {
-            string useremail = emailLoginTxt.Text;
-            string userpassword = passwordLoginTxt.Text;
-            
-            
-            cmd = new SqlCommand();
             con.Open();
-            cmd.Connection = con;
-            cmd.CommandText = "Select * from Users where emailAdresi='" + emailLoginTxt.Text + "'and kullaniciPassword='" + passwordLoginTxt.Text + "'";
-            dr = cmd.ExecuteReader();
-            
-            if (dr.Read())
-            {
-                MessageBox.Show("Giriş başarılı");
+            cmd = new SqlCommand("select * from Users where kullaniciAdi='"+emailLoginTxt.Text+"' and kullaniciPassword='"+passwordLoginTxt.Text+"'",con);
+            SqlDataAdapter sda = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            string cmbItemValue = userCombo.SelectedItem.ToString();
 
-            }
-            else if(emailRegisterTxt.Text=="" || passwordLoginTxt.Text=="") 
+            if (dt.Rows.Count>0)
             {
-                MessageBox.Show("Email veya Şifre boş bırakılamaz");
-                
-            }
+                for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    if (dt.Rows[i]["userTypeID"].ToString()==cmbItemValue)
+                    {
+                        if (userCombo.SelectedIndex==0)
+                        {
+                            StudentForm frm2 = new StudentForm();
+                            frm2.ShowDialog();
 
+                        }
+                        else
+                        {
+                            adminForm adm = new adminForm();
+                            adm.ShowDialog();
+                        }
+                    }
+                }
+                {
+
+                }
+            }
             else
             {
-                MessageBox.Show("Giriş hatalı");
-                emailLoginTxt.Text = string.Empty;
-                passwordLoginTxt.Text = string.Empty;
+                MessageBox.Show("error");
             }
             con.Close();
 
-          
-            
-            
             if (isAnimation)
             {
                 return;
@@ -218,8 +223,15 @@ namespace SinavProjesi
 
         private void ForgotTextBox_Click(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
+            ForgotForm frm = new ForgotForm();
             frm.ShowDialog();
+        }
+
+        private void studentButton_Click(object sender, EventArgs e)
+        {
+            StudentForm frm2 = new StudentForm();
+            frm2.ShowDialog();
+
         }
     }
 }

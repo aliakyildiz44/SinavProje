@@ -10,4 +10,5 @@ C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csp
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
-C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ForgotForm.resources
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.StudentForm.resources

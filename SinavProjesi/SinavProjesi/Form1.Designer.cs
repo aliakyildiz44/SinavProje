@@ -34,7 +34,11 @@ namespace SinavProjesi
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.LoginPanel = new Guna.UI2.WinForms.Guna2Panel();
+            this.studentButton = new Guna.UI2.WinForms.Guna2Button();
+            this.hidePasswordPicture = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.showPasswordPicture = new Guna.UI2.WinForms.Guna2PictureBox();
             this.KaydirmaPanel = new Guna.UI2.WinForms.Guna2Panel();
+            this.LoginPicture = new Guna.UI2.WinForms.Guna2PictureBox();
             this.LoginButton = new Guna.UI2.WinForms.Guna2Button();
             this.SignUpButton = new Guna.UI2.WinForms.Guna2Button();
             this.SignUpPanel = new Guna.UI2.WinForms.Guna2Panel();
@@ -51,25 +55,23 @@ namespace SinavProjesi
             this.passwordLoginTxt = new Guna.UI2.WinForms.Guna2TextBox();
             this.RememberSwitch = new Guna.UI2.WinForms.Guna2ToggleSwitch();
             this.emailLoginTxt = new Guna.UI2.WinForms.Guna2TextBox();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2ControlBox2 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
-            this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
-            this.guna2DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
-            this.hidePasswordPicture = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.showPasswordPicture = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.LoginPicture = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
+            this.guna2DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
+            this.userCombo = new Guna.UI2.WinForms.Guna2ComboBox();
             this.LoginPanel.SuspendLayout();
-            this.KaydirmaPanel.SuspendLayout();
-            this.SignUpPanel.SuspendLayout();
-            this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.hidePasswordPicture)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.showPasswordPicture)).BeginInit();
+            this.KaydirmaPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.LoginPicture)).BeginInit();
+            this.SignUpPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
+            this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -87,6 +89,8 @@ namespace SinavProjesi
             // LoginPanel
             // 
             this.LoginPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
+            this.LoginPanel.Controls.Add(this.userCombo);
+            this.LoginPanel.Controls.Add(this.studentButton);
             this.LoginPanel.Controls.Add(this.hidePasswordPicture);
             this.LoginPanel.Controls.Add(this.showPasswordPicture);
             this.LoginPanel.Controls.Add(this.KaydirmaPanel);
@@ -103,6 +107,45 @@ namespace SinavProjesi
             this.LoginPanel.TabIndex = 3;
             this.LoginPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.LoginPanel_Paint);
             // 
+            // studentButton
+            // 
+            this.studentButton.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.studentButton.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.studentButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.studentButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.studentButton.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.studentButton.ForeColor = System.Drawing.Color.White;
+            this.studentButton.Location = new System.Drawing.Point(184, 697);
+            this.studentButton.Name = "studentButton";
+            this.studentButton.Size = new System.Drawing.Size(165, 46);
+            this.studentButton.TabIndex = 12;
+            this.studentButton.Text = "Login Student";
+            this.studentButton.Click += new System.EventHandler(this.studentButton_Click);
+            // 
+            // hidePasswordPicture
+            // 
+            this.hidePasswordPicture.Image = ((System.Drawing.Image)(resources.GetObject("hidePasswordPicture.Image")));
+            this.hidePasswordPicture.ImageRotate = 0F;
+            this.hidePasswordPicture.Location = new System.Drawing.Point(492, 511);
+            this.hidePasswordPicture.Name = "hidePasswordPicture";
+            this.hidePasswordPicture.Size = new System.Drawing.Size(42, 60);
+            this.hidePasswordPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.hidePasswordPicture.TabIndex = 11;
+            this.hidePasswordPicture.TabStop = false;
+            this.hidePasswordPicture.Click += new System.EventHandler(this.hidePasswordPicture_Click);
+            // 
+            // showPasswordPicture
+            // 
+            this.showPasswordPicture.Image = ((System.Drawing.Image)(resources.GetObject("showPasswordPicture.Image")));
+            this.showPasswordPicture.ImageRotate = 0F;
+            this.showPasswordPicture.Location = new System.Drawing.Point(492, 459);
+            this.showPasswordPicture.Name = "showPasswordPicture";
+            this.showPasswordPicture.Size = new System.Drawing.Size(42, 60);
+            this.showPasswordPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.showPasswordPicture.TabIndex = 10;
+            this.showPasswordPicture.TabStop = false;
+            this.showPasswordPicture.Click += new System.EventHandler(this.showPasswordPicture_Click);
+            // 
             // KaydirmaPanel
             // 
             this.KaydirmaPanel.Controls.Add(this.LoginPicture);
@@ -110,10 +153,21 @@ namespace SinavProjesi
             this.KaydirmaPanel.Controls.Add(this.SignUpButton);
             this.KaydirmaPanel.Controls.Add(this.SignUpPanel);
             this.KaydirmaPanel.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.KaydirmaPanel.Location = new System.Drawing.Point(0, 776);
+            this.KaydirmaPanel.Location = new System.Drawing.Point(0, 771);
             this.KaydirmaPanel.Name = "KaydirmaPanel";
-            this.KaydirmaPanel.Size = new System.Drawing.Size(555, 130);
+            this.KaydirmaPanel.Size = new System.Drawing.Size(555, 135);
             this.KaydirmaPanel.TabIndex = 9;
+            // 
+            // LoginPicture
+            // 
+            this.LoginPicture.Image = ((System.Drawing.Image)(resources.GetObject("LoginPicture.Image")));
+            this.LoginPicture.ImageRotate = 0F;
+            this.LoginPicture.Location = new System.Drawing.Point(173, 3);
+            this.LoginPicture.Name = "LoginPicture";
+            this.LoginPicture.Size = new System.Drawing.Size(218, 127);
+            this.LoginPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.LoginPicture.TabIndex = 15;
+            this.LoginPicture.TabStop = false;
             // 
             // LoginButton
             // 
@@ -207,6 +261,7 @@ namespace SinavProjesi
             this.nameSurname.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.nameSurname.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameSurname.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.nameSurname.ForeColor = System.Drawing.Color.White;
             this.nameSurname.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameSurname.Location = new System.Drawing.Point(99, 190);
             this.nameSurname.Name = "nameSurname";
@@ -231,6 +286,7 @@ namespace SinavProjesi
             this.nameTxt.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.nameTxt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameTxt.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.nameTxt.ForeColor = System.Drawing.Color.White;
             this.nameTxt.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameTxt.Location = new System.Drawing.Point(96, 103);
             this.nameTxt.Name = "nameTxt";
@@ -275,6 +331,7 @@ namespace SinavProjesi
             this.userNameTxt.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.userNameTxt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.userNameTxt.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.userNameTxt.ForeColor = System.Drawing.Color.White;
             this.userNameTxt.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.userNameTxt.Location = new System.Drawing.Point(96, 16);
             this.userNameTxt.Name = "userNameTxt";
@@ -299,6 +356,7 @@ namespace SinavProjesi
             this.ConfirmPasswordTxt.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.ConfirmPasswordTxt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.ConfirmPasswordTxt.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.ConfirmPasswordTxt.ForeColor = System.Drawing.Color.White;
             this.ConfirmPasswordTxt.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.ConfirmPasswordTxt.Location = new System.Drawing.Point(96, 453);
             this.ConfirmPasswordTxt.Name = "ConfirmPasswordTxt";
@@ -323,6 +381,7 @@ namespace SinavProjesi
             this.passwordRegisterTxt.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.passwordRegisterTxt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passwordRegisterTxt.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.passwordRegisterTxt.ForeColor = System.Drawing.Color.White;
             this.passwordRegisterTxt.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passwordRegisterTxt.Location = new System.Drawing.Point(96, 365);
             this.passwordRegisterTxt.Name = "passwordRegisterTxt";
@@ -347,6 +406,7 @@ namespace SinavProjesi
             this.emailRegisterTxt.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(93)))), ((int)(((byte)(175)))));
             this.emailRegisterTxt.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailRegisterTxt.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.emailRegisterTxt.ForeColor = System.Drawing.Color.White;
             this.emailRegisterTxt.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailRegisterTxt.Location = new System.Drawing.Point(99, 278);
             this.emailRegisterTxt.Name = "emailRegisterTxt";
@@ -446,6 +506,19 @@ namespace SinavProjesi
             this.emailLoginTxt.Size = new System.Drawing.Size(376, 60);
             this.emailLoginTxt.TabIndex = 0;
             // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2PictureBox1.Image = global::SinavProjesi.Properties.Resources.pen2_unscreen;
+            this.guna2PictureBox1.ImageRotate = 0F;
+            this.guna2PictureBox1.Location = new System.Drawing.Point(125, 12);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.Size = new System.Drawing.Size(309, 173);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.guna2PictureBox1.TabIndex = 0;
+            this.guna2PictureBox1.TabStop = false;
+            this.guna2PictureBox1.UseTransparentBackground = true;
+            // 
             // guna2Panel1
             // 
             this.guna2Panel1.Controls.Add(this.guna2ControlBox2);
@@ -481,66 +554,6 @@ namespace SinavProjesi
             this.guna2ControlBox1.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox1.TabIndex = 2;
             // 
-            // guna2ShadowForm1
-            // 
-            this.guna2ShadowForm1.BorderRadius = 20;
-            this.guna2ShadowForm1.ShadowColor = System.Drawing.Color.Red;
-            this.guna2ShadowForm1.TargetForm = this;
-            // 
-            // guna2DragControl2
-            // 
-            this.guna2DragControl2.DockIndicatorTransparencyValue = 0.6D;
-            this.guna2DragControl2.TargetControl = this.SignUpPanel;
-            this.guna2DragControl2.UseTransparentDrag = true;
-            // 
-            // hidePasswordPicture
-            // 
-            this.hidePasswordPicture.Image = ((System.Drawing.Image)(resources.GetObject("hidePasswordPicture.Image")));
-            this.hidePasswordPicture.ImageRotate = 0F;
-            this.hidePasswordPicture.Location = new System.Drawing.Point(492, 511);
-            this.hidePasswordPicture.Name = "hidePasswordPicture";
-            this.hidePasswordPicture.Size = new System.Drawing.Size(42, 60);
-            this.hidePasswordPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.hidePasswordPicture.TabIndex = 11;
-            this.hidePasswordPicture.TabStop = false;
-            this.hidePasswordPicture.Click += new System.EventHandler(this.hidePasswordPicture_Click);
-            // 
-            // showPasswordPicture
-            // 
-            this.showPasswordPicture.Image = ((System.Drawing.Image)(resources.GetObject("showPasswordPicture.Image")));
-            this.showPasswordPicture.ImageRotate = 0F;
-            this.showPasswordPicture.Location = new System.Drawing.Point(492, 459);
-            this.showPasswordPicture.Name = "showPasswordPicture";
-            this.showPasswordPicture.Size = new System.Drawing.Size(42, 60);
-            this.showPasswordPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.showPasswordPicture.TabIndex = 10;
-            this.showPasswordPicture.TabStop = false;
-            this.showPasswordPicture.Click += new System.EventHandler(this.showPasswordPicture_Click);
-            // 
-            // LoginPicture
-            // 
-            this.LoginPicture.Image = ((System.Drawing.Image)(resources.GetObject("LoginPicture.Image")));
-            this.LoginPicture.ImageRotate = 0F;
-            this.LoginPicture.Location = new System.Drawing.Point(173, 3);
-            this.LoginPicture.Name = "LoginPicture";
-            this.LoginPicture.Size = new System.Drawing.Size(218, 127);
-            this.LoginPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.LoginPicture.TabIndex = 15;
-            this.LoginPicture.TabStop = false;
-            // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2PictureBox1.Image = global::SinavProjesi.Properties.Resources.pen2_unscreen;
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(125, 12);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(309, 173);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox1.TabIndex = 0;
-            this.guna2PictureBox1.TabStop = false;
-            this.guna2PictureBox1.UseTransparentBackground = true;
-            // 
             // guna2PictureBox3
             // 
             this.guna2PictureBox3.BackColor = System.Drawing.Color.Transparent;
@@ -567,6 +580,36 @@ namespace SinavProjesi
             this.guna2PictureBox2.TabStop = false;
             this.guna2PictureBox2.UseTransparentBackground = true;
             // 
+            // guna2ShadowForm1
+            // 
+            this.guna2ShadowForm1.BorderRadius = 20;
+            this.guna2ShadowForm1.ShadowColor = System.Drawing.Color.Red;
+            this.guna2ShadowForm1.TargetForm = this;
+            // 
+            // guna2DragControl2
+            // 
+            this.guna2DragControl2.DockIndicatorTransparencyValue = 0.6D;
+            this.guna2DragControl2.TargetControl = this.SignUpPanel;
+            this.guna2DragControl2.UseTransparentDrag = true;
+            // 
+            // userCombo
+            // 
+            this.userCombo.BackColor = System.Drawing.Color.Transparent;
+            this.userCombo.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.userCombo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.userCombo.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.userCombo.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.userCombo.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.userCombo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.userCombo.ItemHeight = 30;
+            this.userCombo.Items.AddRange(new object[] {
+            "1",
+            "2"});
+            this.userCombo.Location = new System.Drawing.Point(214, 257);
+            this.userCombo.Name = "userCombo";
+            this.userCombo.Size = new System.Drawing.Size(177, 36);
+            this.userCombo.TabIndex = 13;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -582,13 +625,13 @@ namespace SinavProjesi
             this.Load += new System.EventHandler(this.Form1_Load);
             this.LoginPanel.ResumeLayout(false);
             this.LoginPanel.PerformLayout();
-            this.KaydirmaPanel.ResumeLayout(false);
-            this.SignUpPanel.ResumeLayout(false);
-            this.guna2Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.hidePasswordPicture)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.showPasswordPicture)).EndInit();
+            this.KaydirmaPanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.LoginPicture)).EndInit();
+            this.SignUpPanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
+            this.guna2Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             this.ResumeLayout(false);
@@ -628,6 +671,8 @@ namespace SinavProjesi
         private Guna.UI2.WinForms.Guna2TextBox nameTxt;
         private Guna.UI2.WinForms.Guna2PictureBox showPasswordPicture;
         private Guna.UI2.WinForms.Guna2PictureBox hidePasswordPicture;
+        private Guna.UI2.WinForms.Guna2Button studentButton;
+        private Guna.UI2.WinForms.Guna2ComboBox userCombo;
     }
 }
 

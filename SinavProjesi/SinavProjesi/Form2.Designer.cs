@@ -1,7 +1,7 @@
 ﻿
 namespace SinavProjesi
 {
-    partial class Form2
+    partial class ForgotForm
     {
         /// <summary>
         /// Required designer variable.
@@ -65,11 +65,11 @@ namespace SinavProjesi
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(208, 90);
+            this.label1.Location = new System.Drawing.Point(276, 91);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(341, 32);
+            this.label1.Size = new System.Drawing.Size(189, 32);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Lütfen E-mail Adresinizi Giriniz";
+            this.label1.Text = "Forgot Password";
             // 
             // SendButton
             // 
@@ -101,7 +101,7 @@ namespace SinavProjesi
             this.ControlForgot.Size = new System.Drawing.Size(45, 29);
             this.ControlForgot.TabIndex = 9;
             // 
-            // Form2
+            // ForgotForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -112,7 +112,7 @@ namespace SinavProjesi
             this.Controls.Add(this.label1);
             this.Controls.Add(this.emailForgotTxt);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form2";
+            this.Name = "ForgotForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
             this.ResumeLayout(false);
