@@ -22,11 +22,12 @@ namespace SinavProjesi
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection(@"Data Source=ALI;Initial Catalog=SinavProjesi;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=TALHAGERGIN;Initial Catalog=SinavProjesi;Integrated Security=True");
        
         
         private void SendButton_Click(object sender, EventArgs e)
         {
+            con.Close();
             con.Open();
             SqlCommand cmd = cmd = new SqlCommand("Select * from Users where emailAdresi='" + emailForgotTxt.Text +"'", con);
 
@@ -48,7 +49,7 @@ namespace SinavProjesi
                     String smptsrvr = "smtp.gmail.com";
                     String kime = (dr["emailAdresi"].ToString());
                     String konu = ("Sifre hatırlatma Maili");
-                    String yaz = ("Sayın," + dr["Ad"].ToString() + dr["Soyad"].ToString() + "\n" + "Bizden" + tarih + " tarihinde sifre hatırlatma talebinde bulundunuz" +
+                    String yaz = ("Sayın," + dr["Ad"].ToString() + dr["Soyad"].ToString() + "\n" + "Bizden " + tarih + " tarihinde sifre hatırlatma talebinde bulundunuz" +
                         "\n" + "Paralonız:" + dr["kullaniciPassword"].ToString() + "\nİyi Günler");
                     smtpserver.Credentials = new NetworkCredential(mailadresin, sifre);
                     smtpserver.Port = 587;
