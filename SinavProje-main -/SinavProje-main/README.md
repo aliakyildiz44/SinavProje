@@ -1,2 +1,0 @@
-# SinavProje
- Yazılım Yapımı
