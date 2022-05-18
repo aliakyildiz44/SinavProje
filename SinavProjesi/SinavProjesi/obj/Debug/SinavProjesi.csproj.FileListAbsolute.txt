@@ -10,5 +10,139 @@ C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csp
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
 C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
-C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ForgotForm.resources
-C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.StudentForm.resources
+C:\Users\aliak\source\repos\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form1.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form1.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\user\Desktop\SinavProje-main - Kopya\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.LoginForm.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.SplashScreen.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.EducatorForm.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AddNewQuestions_UC.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.UpdateQuestions_UC.resources
+C:\Users\aliak\Desktop\SinavProje-LoginFrom1\SinavProje-LoginFrom1\SinavProje-main -\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.ViewAndDelete_UC.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.EducatorForm.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AddNewQuestions_UC.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.UpdateQuestions_UC.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.ViewAndDelete_UC.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.LoginForm.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Form2.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.SplashScreen.resources
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\talha\Downloads\SinavProje-EducatorLAST\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AccountForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AdminScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.EducatorForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AddNewQuestions_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.UpdateQuestions_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.ViewAndDelete_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ExamForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ForgetPassword.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.LoginFormm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.SplashScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.StudentsScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-EducatorLAST\SinavProje-main\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AccountForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AdminScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.EducatorForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AddNewQuestions_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.UpdateQuestions_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.ViewAndDelete_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ExamForm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ForgetPassword.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.LoginFormm.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.SplashScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.StudentsScreen.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AllStudentsResult_UC.resources
+C:\Users\talha\OneDrive\Masaüstü\SinavProje-Last Version\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.MyResults.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe.config
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.exe
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\bin\Debug\SinavProjesi.pdb
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\bin\Debug\Guna.UI2.dll
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AccountForm.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.AdminScreen.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.EducatorForm.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AddNewQuestions_UC.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.AllStudentsResult_UC.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.UpdateQuestions_UC.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Educator_UC.ViewAndDelete_UC.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ExamForm.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.ForgetPassword.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.LoginFormm.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.MyResults.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.Properties.Resources.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.SplashScreen.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.StudentsScreen.resources
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.GenerateResource.cache
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CoreCompileInputs.cache
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.CopyComplete
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.exe
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.pdb
+C:\Users\aliak\Desktop\SinavProje-ExamApplicationLastVersion\SinavProje-ExamApplicationLastVersion\SinavProjesi\SinavProjesi\obj\Debug\SinavProjesi.csproj.AssemblyReference.cache
